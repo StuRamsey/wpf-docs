@@ -212,6 +212,11 @@ Similarly, other toolbar items also can be disabled. The following table lists t
 <td>PART_ButtonTextSearch</td>
 <td>System.Windows.Controls.Button</td>
 </tr>
+<tr>
+<td>Text Markup Annotation</td>
+<td>PART_TextMarkup</td>
+<td>System.Windows.Controls.Primitives.ToggleButton</td>
+</tr>
 </table>
 
 N> From the v18.4.0.x onwards, the file menu items such as Open, Save, Save As, and Print are not directly present in the toolbar and they are present in the context menu of the File tools toggle button.
